@@ -1,0 +1,44 @@
+/* style.css*/
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+
+
+body
+{
+  .section1
+  {
+    border: 20px solid darkred;    
+  }
+  
+  font-family: "Merriweather";
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+
+  .pic1
+  {
+    max-width: 50%;
+    max-height: 50%;
+    border: 15px solid darkred;    
+  }
+
+  .pic2
+  {
+    max-width: 35%;
+    max-height: 35%;
+    border: 15px solid darkred;    
+  }
+
+  .pic3
+  {
+    max-width: 50%;
+    max-height: 50%;
+    border: 15px solid darkred;    
+  }
+
+  .pic4
+  {
+    border: 15px solid darkred;    
+  }
+}
